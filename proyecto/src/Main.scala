@@ -1,5 +1,5 @@
 
 
 object Main extends App {
-  print("hola")
+  print("Buenas criaturitas del señor")
 }
